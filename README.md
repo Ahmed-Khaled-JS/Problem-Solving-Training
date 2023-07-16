@@ -11,7 +11,6 @@
  Problem #002 B. Queries about less or equal elements  for open click  <a href='https://codeforces.com/problemset/problem/600/B' target="_blank">here</a> 
  Solution from 
   <a href='https://github.com/a7medF4/Problem-Solving-Training/tree/main/B.%20Queries%20about%20less%20or%20equal%20elements' target="_blank">here</a> 
-  [link]('https://github.com/a7medF4/Problem-Solving-Training/tree/main/B.%20Queries%20about%20less%20or%20equal%20elements'){:target="_blank"}
 </br> 
  </li>
 </ul>
