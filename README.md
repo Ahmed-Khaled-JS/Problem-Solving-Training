@@ -17,7 +17,6 @@
  Problem #003 B. Interesting drink for problem click  <a href='https://codeforces.com/contest/706/problem/B' target="_blank">here</a> 
   for Solution click 
   <a href='https://github.com/a7medF4/Problem-Solving-Training/tree/main/B.%20Interesting%20drink' target="_blank">here</a> 
-  </br> 
  </li>
  
 </ul>
