@@ -18,6 +18,10 @@
   for Solution click 
   <a href='https://github.com/a7medF4/Problem-Solving-Training/tree/main/B.%20Interesting%20drink' target="_blank">here</a> 
  </li>
- 
+ <li>
+ Problem #004 A. IQ test for problem click  <a href='https://codeforces.com/contest/25/problem/A' target="_blank">here</a> 
+  for Solution click 
+  <a href='https://github.com/a7medF4/Problem-Solving-Training/tree/main/A.%20IQ%20test' target="_blank">here</a> 
+ </li>
 </ul>
 
